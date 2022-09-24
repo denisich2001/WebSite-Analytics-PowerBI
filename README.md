@@ -1,4 +1,3 @@
-# WebSite Analytics PowerBI
 # Analytics for website proskater.ru based on traffic data file.
 
 File traffic_data.xsls contains table wich contains the data traffic from site proskater.ru
