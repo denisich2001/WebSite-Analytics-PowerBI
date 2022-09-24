@@ -1,2 +1,2 @@
-# WebSite-Analytics-PowerBI
-Analytics for proskater.ru
+# WebSite Analytics PowerBI
+Analytics for website proskater.ru based on traffic data file
