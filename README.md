@@ -1,6 +1,6 @@
 # Analytics for website proskater.ru based on traffic data file
 
-File "Trafic analysis.pbix" contains dashbord describing traffic of the site. 
+File "trafic_analysis.pbix" contains dashbord describing traffic of the site. 
 
 File "traffic_data.xlsx" contains table wich contains the traffic data of site proskater.ru.
 
